@@ -1,2 +1,5 @@
 İsimler:
 ali kemal
+elif güzelyurt
+berfin nur biçer
+enver mert özdemir
